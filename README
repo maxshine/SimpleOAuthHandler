@@ -1,0 +1,1 @@
+This is a very simple java servlet-based project, to handle the redirect call during the OAuth process. It take the incoming http request w/ auth_code, and return the authentication result with auth_token.
